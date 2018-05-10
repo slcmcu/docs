@@ -21,3 +21,7 @@ https://blog.csdn.net/maoyongfan3/article/details/43309391
 
 #tkinter
 https://docs.python.org/3/library/tkinter.html
+
+#django
+
+https://djangopackages.org
