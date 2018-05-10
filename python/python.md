@@ -18,3 +18,6 @@ htmlpy
 
 #python serial模块
 https://blog.csdn.net/maoyongfan3/article/details/43309391
+
+#tkinter
+https://docs.python.org/3/library/tkinter.html
