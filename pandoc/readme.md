@@ -1,5 +1,7 @@
 sudo apt-get install pandoc
 sudo apt-get install miktex
+sudo apt-get texlive-xetex texlive-luatex pandoc-citeproc wkhtmltopdf
+
 pandoc infile.md -o outfile.pdf
 pandoc infile.md -o outfile.pdf --latex-engine=xelatex
 
