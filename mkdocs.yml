@@ -7,6 +7,7 @@ pages:
     - linux:  linux/crontab.md
     - git:     git/git.md
     - fritzing: fritzing/readme.md
+    - markdown: markdown/markdown.md
     
 
 theme: readthedocs
