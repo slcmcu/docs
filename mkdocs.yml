@@ -1,0 +1,14 @@
+site_name: 入门教程
+
+pages:
+    - 主页:   index.md
+    - 函数:   function.md
+    - CSS:    css/readme.md
+    - linux:  linux/crontab.md
+    - git:     git/git.md
+    - fritzing: fritzing/readme.md
+    
+
+theme: readthedocs
+
+dev_addr: 127.0.0.1:2000
